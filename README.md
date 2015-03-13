@@ -13,6 +13,8 @@
 Оформление выполненного задания:
 
 От вас требуется скрипт на Swift (например файл calc.swift), который можно запустить из консоли следующим образом:
-chmod +x calc.swift ./calc.swift “5+5*3 + 1” 21
+
+chmod +x calc.swift 
+./calc.swift “5+5*3 + 1” 21
 ./calc.swift “5+5*3 +str” error: unknown constant
 
